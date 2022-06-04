@@ -2,6 +2,7 @@ const BLOG = {
   title: '4me\'s Blog',
   author: '4me',
   email: 'oversec@aliyun.com',
+  authorAvatar: '/avatar.jpeg',
   link: 'https://blog.oversec.fun',
   description: '',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
