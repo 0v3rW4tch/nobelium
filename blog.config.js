@@ -1,9 +1,9 @@
 const BLOG = {
-  title: 'Test',
+  title: '4me\'s Blog',
   author: '4me',
   email: 'oversec@aliyun.com',
   link: 'https://blog.oversec.fun',
-  description: 'Blog',
+  description: '4me\'s Blog',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
