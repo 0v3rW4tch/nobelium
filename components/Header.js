@@ -79,6 +79,9 @@ const Header = ({ navBarTitle, fullWidth }) => {
             </p>
               )
             : (
+            <p className="ml-2 font-medium text-day dark:text-night header-name">
+              <span className="font-normal">{BLOG.description}</span>
+            </p>
               )}
         </div>
         <NavBar />
