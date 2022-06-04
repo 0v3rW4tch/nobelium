@@ -1,10 +1,10 @@
 const BLOG = {
-  title: 'CRAIGARY',
+  title: '4me\'s Blog',
   author: '4me',
   email: 'oversec@aliyun.com',
   link: 'https://blog.oversec.fun',
-  description: 'This gonna be an awesome website.',
-  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  description: '4me\'s Blog',
+  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
