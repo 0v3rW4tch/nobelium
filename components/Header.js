@@ -82,7 +82,6 @@ const Header = ({ navBarTitle, fullWidth }) => {
                     height="24"
                     className="fill-current text-black dark:text-white"
                   />
-                  {/* <rect width="24" height="24" fill="url(#paint0_radial)" /> */}
                   <a class="md:text-lg text-base text-black dark:text-white" aria-label="4me Blog" href="/">🏡 4me's Blog</a>
                   <defs>
                     <radialGradient
