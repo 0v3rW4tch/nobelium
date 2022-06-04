@@ -86,20 +86,6 @@ const Header = ({ navBarTitle, fullWidth }) => {
               )}
         </div>
         <NavBar />
-                <div>
-          <a
-            onClick={() => setTheme(theme === 'light' ? 'dark' : 'light')}
-            title={`Toggle dark mode - current ${theme}`}
-            className='hover:text-blue-400 cursor-pointer text-xl'
-          >
-            {hasMounted && theme === 'dark' ? (
-              <IoMoonSharp />
-            ) : (
-              <IoSunnyOutline />
-            )}
-          </a>
-        </div>
-
       </div>
     </>
   )
