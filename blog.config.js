@@ -4,7 +4,7 @@ const BLOG = {
   email: 'oversec@aliyun.com',
   authorAvatar: '/avatar.jpeg',
   link: 'https://blog.oversec.fun',
-  description: '',
+  description: '不必患得患失',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
