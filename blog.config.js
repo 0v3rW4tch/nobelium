@@ -21,7 +21,7 @@ const BLOG = {
   socialLink: 'https://blog.oversec.fun',
   seo: {
     keywords: ['Blog', 'Website', 'Notion','oversec','4me','security'],
-    googleSiteVerification: '' // Remove the value or replace it with your own google site verification code
+    googleSiteVerification: 'V_bxBLQw3DWIc7SXYJ-7CT-hTQR_B1y0GlkG7HR68hM' // Remove the value or replace it with your own google site verification code
   },
   notionPageId: process.env.NOTION_PAGE_ID, // DO NOT CHANGE THIS！！！
   notionAccessToken: process.env.NOTION_ACCESS_TOKEN, // Useful if you prefer not to make your database public
